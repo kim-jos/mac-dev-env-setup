@@ -1,0 +1,14 @@
+brew 'solidity@6'
+tap "ethereum/ethereum"
+brew 'git'
+brew 'redis'
+brew 'gcc' # Required for mongodb
+brew 'mongodb/brew/mongodb-community'
+brew 'curl'
+
+cask "visual-studio-code"
+cask 'slack'
+cask 'postman'
+cask 'sourcetree'
+cask 'google-chrome'
+cask 'robo-3t' # mongodb GUI
