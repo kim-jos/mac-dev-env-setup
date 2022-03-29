@@ -1,5 +1,5 @@
-brew 'solidity@6'
 tap "ethereum/ethereum"
+brew 'solidity@6'
 brew 'git'
 brew 'redis'
 brew 'gcc' # Required for mongodb
